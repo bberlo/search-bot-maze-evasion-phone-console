@@ -8,3 +8,5 @@ Implemented streaming of IMU data from a phone console using SensoDuino (https:/
 
 Result
 
+The virtual shields screen is part of the sensoDuino android app created by Hazim Bitar: http://www.techbitar.com/sensoduino.html.
+
